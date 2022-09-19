@@ -1,0 +1,16 @@
+{
+    "keyboard_name": "One-Switch-Keyboard",
+    "manufacturer": "zee",
+    "url": "https://github.com/manudiv16",
+    "maintainer": "zee",
+    "usb": {
+        "vid": "0xAC11",
+        "pid": "0x4175",
+        "device_version": "0.0.1"
+    },
+    "layouts": {
+        "LAYOUT_all": {
+            "layout": [{ "label": "Esc", "x": 0, "y": 0 }]
+        }
+    }
+}
